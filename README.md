@@ -1,6 +1,6 @@
 # Vault_Contract_nextjs-web3
 
-This is a minimalistic project to show us how we can connect to metamask using [web3-next](https://github.com/BTC415/Vault_Contract_Next_Web3) in nextjs / web3.js.
+This is a minimalistic project to show us how we can connect to metamask using [web3-next](https://github.com/marksantiago290/Vault_Contract_Next_Web3) in nextjs / web3.js.
 
 This could just as easily be done in typescript.
 
@@ -41,7 +41,7 @@ Video coming soon...
 1. Clone and install dependencies
 
 ```
-git clone https://github.com//LovelyDodger/Vault_Contract_Next_Web3
+git clone https://github.com/marksantiago290/Vault_Contract_Next_Web3.git
 cd Vault_Contract_Next_Web3
 yarn
 ```
@@ -49,7 +49,7 @@ yarn
 2. Then, you'll need to open up a second terminal and run:
 
 ```
-git clone https://github.com//BTC415/Vault_Contract_Next_Web3
+git clone https://github.com/marksantiago290/Vault_Contract_Next_Web3.git
 cd /LovelyDodger/Vault_Contract_Next_Web3
 yarn hardhat node
 ```
@@ -80,12 +80,6 @@ You'll be brought to the UI after running `yarn dev` which has exactly 2 buttons
 ### Important localhost note
 
 If you use metamask with a local network, everytime you shut down your node, you'll need to reset your account. Settings -> Advanced -> Reset account. Don't do this with a metamask you have real funds in.
-
-# Thank you!
-
-If you appreciated this, feel free to follow me or donate!
-
-ETH/Polygon/Avalanche/etc Address: 0x9680201d9c93d65a3603d2088d125e955c73BD65
 
 
 # Smart Contract address
