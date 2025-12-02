@@ -1,6 +1,6 @@
-# Vault_Contract_nextjs-web3
+# Vault_Smart_Contract
 
-This is a minimalistic project to show us how we can connect to metamask using [web3-next](https://github.com/marksantiago290/Vault_Contract_Next_Web3) in nextjs / web3.js.
+This is a minimalistic project to show us how we can connect to metamask using [web3-next](https://github.com/marksantiago290/Vault_Smart_Contract) in nextjs / web3.js.
 
 This could just as easily be done in typescript.
 
@@ -8,7 +8,7 @@ This project started with nexjs boilerplate by running `yarn create next-app nex
 
 Video Coming soon...
 
-- [Vault_Contract_Next_Web3](#Vault_Contract_Nextjs_Web3js)
+- [Vault_Smart_Contract](#Vault_Smart_Contract)
 - [Getting Started](#getting-started)
   - [Requirements](#requirements)
   - [Quickstart](#quickstart)
@@ -41,16 +41,16 @@ Video coming soon...
 1. Clone and install dependencies
 
 ```
-git clone https://github.com/marksantiago290/Vault_Contract_Next_Web3.git
-cd Vault_Contract_Next_Web3
+git clone https://github.com/marksantiago290/Vault_Smart_Contract.git
+cd Vault_Smart_Contract
 yarn
 ```
 
 2. Then, you'll need to open up a second terminal and run:
 
 ```
-git clone https://github.com/marksantiago290/Vault_Contract_Next_Web3.git
-cd /LovelyDodger/Vault_Contract_Next_Web3
+git clone https://github.com/marksantiago290/Vault_Smart_Contract.git
+cd Vault_Smart_Contract
 yarn hardhat node
 ```
 
